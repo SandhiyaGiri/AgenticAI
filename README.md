@@ -1,5 +1,5 @@
 # AgenticAI
-Tracks the code and content of the Agentic AI courses that I'm currently learning
+Tracks the code and content of the Agentic AI courses that I'm currently learning. The shortlisted teams were announced but we are not shortlisted
 
 # Flow diagram
 ```mermaid
