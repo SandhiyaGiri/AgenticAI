@@ -1,5 +1,5 @@
 # AgenticAI
-Tracks the code and content of the Agentic AI courses that I'm currently learning.
+Tracks the code and content of the Agentic AI courses
 # Flow diagram
 ```mermaid
 graph TD
